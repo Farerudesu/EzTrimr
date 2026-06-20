@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+*.spec
+EZTrimr-portable.zip
+dist_setup/
